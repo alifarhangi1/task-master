@@ -1,5 +1,8 @@
 PROJECT: TASK MASTER
-GROUP 56 - LUCA DUARTE, ROBIN LEE, ANDREW LEE, ETHAN CARVALHO, ALI FARHANGI
+GROUP 56 - LUCA DUARTE, ALI FARHANGI, ROBIN LEE, ANDREW LEE, ETHAN CARVALHO
+
+Here is a youtube link to a video demo:
+https://youtu.be/WjS0Eun9Fvw
 
 Required:
 
@@ -91,7 +94,5 @@ To run the server and frontend:
 
 To access doxygen documentation, go to: html/index.html
 
-If you run into any issues running the program, contact me (lduarte@uwo.ca) or Robin Lee
 
-Here is a youtube link to a video demo:
-https://youtu.be/WjS0Eun9Fvw
+
